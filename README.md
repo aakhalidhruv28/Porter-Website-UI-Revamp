@@ -16,6 +16,23 @@ A premium, high-fidelity redesign of the Porter logistics ecosystem, built with 
 3. **Driver Partner Portal:** Quick-action 'Attach Vehicle' forms crafted via interactive floating label inputs and dense feature grids.
 4. **Support Center:** Comprehensive, real-time searchable layouts with Neo-brutalist search components, 20+ dynamic regional location grids, and instant 'Direct Channel' modules.
 
+## 📸 Visual Showcase
+
+### 🏠 Homepage Redesign
+![Homepage](Screenshots/Porter%20%7C%20Homepage.png)
+
+### 🏢 Enterprise Portal
+![Enterprise](Screenshots/Porter%20%7C%20Enterprise.png)
+
+### 🚛 Driver Partner Experience
+![Driver Partner](Screenshots/Porter%20%7C%20Driver.png)
+
+### 🎧 Support & Help Center
+![Support Center](Screenshots/Porter%20%7C%20Support.png)
+
+> [!TIP]
+> **Full Website Redesign:** These screenshots provide a glimpse into the complete UI overhaul. To experience the full high-fidelity redesign with interactive animations and spatial layouts, we recommend cloning the repository and running the project locally.
+
 ## 🚀 Tech Stack
 
 - **[Next.js]** - App Router & Core React Framework
