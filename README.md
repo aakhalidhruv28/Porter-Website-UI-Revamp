@@ -52,4 +52,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Ensure you populate your `/public` folder with respective brand assets (e.g., `logo.png` / `logo-dark.png`) for final branding completeness.
 
 ## 📄 Notes
-This is a demonstration redesign built for high-performance UX studies and is not officially officially affiliated with Porter.
+This is a demonstration redesign built for high-performance UX studies and is not officially affiliated with Porter.
